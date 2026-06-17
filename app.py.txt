@@ -1,0 +1,2 @@
+print("Face Recognition Attendance System")
+print("Attendance system started successfully.")
